@@ -1,4 +1,5 @@
 /*
+---------------------------------------------------------------------------------------------------------------------------
 Script purpose: 
 	This script creates view tables for Gold Layer in the data warehouse
 	Gold Layer represnts the fact and dimension tables for data business and data analysis roles (Star Schema)
@@ -8,6 +9,7 @@ Script purpose:
 
 Usage:
 	This views can be queried directly for reporting and analysing
+----------------------------------------------------------------------------------------------------------------------------
 */
 
 USE db_data_warehouse_project;
